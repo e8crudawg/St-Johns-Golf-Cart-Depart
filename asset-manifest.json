@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/St-Johns-Golf-Cart-Depart/static/js/main.36ef6ac3.js",
+    "static/js/96.3aee22d7.js": "/St-Johns-Golf-Cart-Depart/static/js/96.3aee22d7.js",
+    "index.html": "/St-Johns-Golf-Cart-Depart/index.html",
+    "static/media/Course Drive Times.csv": "/St-Johns-Golf-Cart-Depart/static/media/Course Drive Times.1f08297ccb03ec9ba314.csv",
+    "serve.json": "/St-Johns-Golf-Cart-Depart/serve.json",
+    "manifest.json": "/St-Johns-Golf-Cart-Depart/manifest.json",
+    "main.36ef6ac3.js.map": "/St-Johns-Golf-Cart-Depart/static/js/main.36ef6ac3.js.map",
+    "96.3aee22d7.js.map": "/St-Johns-Golf-Cart-Depart/static/js/96.3aee22d7.js.map"
+  },
+  "entrypoints": [
+    "static/js/96.3aee22d7.js",
+    "static/js/main.36ef6ac3.js"
+  ]
+}
