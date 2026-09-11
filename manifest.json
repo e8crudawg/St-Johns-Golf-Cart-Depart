@@ -3,6 +3,18 @@
   "lang": "en",
   "name": "Golf Departure",
   "short_name": "Golf Departure",
-  "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "portrait"
+"start_url": "/?utm_source=web_app_manifest",
+"orientation": "portrait",
+"icons": [
+  {
+    "src": "golf_cart_depart_icon_192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "golf_cart_depart_icon_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+] 
 }
